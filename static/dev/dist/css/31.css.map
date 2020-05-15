@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/layout/NotFoundComponent.vue"],"names":[],"mappings":"AAAA,eAAe,oBAAoB,YAAY,kBAAkB,mBAAmB","file":"dev/dist/css/31.css","sourcesContent":[".exception-box{margin:150px auto 0;width:300px;text-align:center}.exception-box img{width:100%}\n"],"sourceRoot":""}
